@@ -1,0 +1,32 @@
+{
+  "test_017":{
+    "company_id": "27",
+    "policy_name": "接口测试",
+    "start_time": "2019-04-11",
+    "end_time":"2019-04-11",
+    "customer_user_id_str":"10015",
+    "unit_value":"5",
+    "sign":"3c5b2324ef6565b4980539ea4a8154ed"
+  },
+  "test_018":{"price_data": "[{\"company_id\":27,\"customer_type_id\":0,\"customer_id\":0,\"goods_id\":62641,\"sale_price\":\"952\",\"start_time\":\"2019-04-11\"}]",
+    "sign":"12"
+  },
+  "test_019":{"business_time":"2019-04-11","company_id":"27","payment_method":"1","outstorage_type_id":"10002","customer_id":"105215","customer_name":"弃审客户",
+    "business_id":"10525","credit_balance":"1880.00","deposits":"1960.00","balance":"10445.00","department_id":"10281","rebate_balance":"1040.00","address":"法大师傅十分时尚",
+    "consignee_name":"弃审客户","consignee_mobile":"13620125484","cityList":"1,36,37","province_id":"1","city_id":"36","area_id":"37",
+    "order_goods_str": "[{\"binding_sign\":2,\"goods_id\":62641,\"goods_name\":\"i will show you\",\"goods_sn\":\"iwsy\",\"warehouse_id\":10175,\"goods_num\":1,\"discount_price\":0,\"subtotal_price\":0,\"unit_price\":\"0.00\",\"sales_price\":0,\"business_type_id\":10001}]",
+    "sign":"12"
+  },
+  "test_020":{"type":1,"business_time":"2019-04-11","company_id":27,"payment_method":1,"outstock_type_id":10002,"rebate_price":1.00,"credit_price":1.00,"deposits_price":1.00,
+    "settlement_price":912.00,"customer_id":105214,"customer_name":"U&I客户","business_id":10516,"credit_balance":1859.00,"deposits":1589.00,"balance":-2000.00,"department_id":10245,"rebate_balance":1859.00,"address":"发射点发射点发射点",
+    "consignee_name":"U&I客户","consignee_mobile":"13565558458","cityList":"1,36,38","province_id":1,"city_id":36,"area_id":38,"goods_info":"[{\"binding_sign\":4,\"goods_id\":62641,\"batch_id\":892,\"warehouse_id\":10175,\"warehouse_name\":\"Ailee-Invitation\",\"allocation_id\":10307,\"allocation_name\":\"보여줄게-001\",\"unit_price\":915,\"total_price\":\"915.00\",\"discount_price\":0,\"discount_unit_price\":0,\"business_type_id\":10001,\"company_id\":27,\"remark\":\"\",\"real_num\":1}]",
+    "sign":12
+  },
+  "test_021": {"goods_info": "[{\"line\":2,\"batch\":\"20190412\",\"return_subtotal_price\":\"450.00\",\"goods_name\":\"i will show you\",\"unit_price\":450,\"goods_id\":62641,\"goods_sn\":\"iwsy\",\"is_tire_management\":0,\"brand_id\":1981,\"return_goods_num\":1,\"production_time\":\"1992\",\"warehouse_id\":10175,\"allocation_id\":10307,\"allocation_name\":\"보여줄게-001\",\"stocks\":2968,\"is_system\":2968,\"add_time\":\"2019-04-12\",\"remark\":\"\"}]",
+    "type":1,"business_time":"2019-04-12","customer_id":105215,"business_id":10525,"company_id":27,"department_id":10281,"intentional_logistics":"啪啪一",
+    "intentional_logistics_id":1,"sign":"beb98a1fa0af0f8eb654212fe8dde673"
+  }
+
+}
+
+

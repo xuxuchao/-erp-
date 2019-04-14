@@ -1,0 +1,78 @@
+[2019-04-10 18:09:14,587] - log.py] - INFO: ---测试开始----
+[2019-04-10 18:09:14,603] - log.py] - INFO: test_001 start
+[2019-04-10 18:09:14,607] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/PromotionPolicy/getPromotionPolicyList
+[2019-04-10 18:09:14,610] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,613] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,625] - log.py] - INFO: test_002 start
+[2019-04-10 18:09:14,631] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/SellingPrice/getPriceList
+[2019-04-10 18:09:14,635] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,668] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,679] - log.py] - INFO: test_003 start
+[2019-04-10 18:09:14,682] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/SalesOrder/getSalesOrderList
+[2019-04-10 18:09:14,685] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,688] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,699] - log.py] - INFO: test_004 start
+[2019-04-10 18:09:14,703] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/SalesOrder/getSalesGoodsList
+[2019-04-10 18:09:14,705] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,707] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,718] - log.py] - INFO: test_005 start
+[2019-04-10 18:09:14,721] - log.py] - INFO: url: http://testerp.taijierp.cn/Sales/Outstock/outstockList
+[2019-04-10 18:09:14,723] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,726] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,739] - log.py] - INFO: test_006 start
+[2019-04-10 18:09:14,742] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/outstock/outstockGoodsList
+[2019-04-10 18:09:14,747] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,751] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,762] - log.py] - INFO: test_007 start
+[2019-04-10 18:09:14,765] - log.py] - INFO: url: http://testerp.taijierp.cn/Sales/Delivery/deliveryList
+[2019-04-10 18:09:14,768] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,770] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,781] - log.py] - INFO: test_008 start
+[2019-04-10 18:09:14,784] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/delivery/deliveryGoodsList
+[2019-04-10 18:09:14,786] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,788] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,800] - log.py] - INFO: test_009 start
+[2019-04-10 18:09:14,804] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/ReturnGoods/returnList
+[2019-04-10 18:09:14,807] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,810] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,825] - log.py] - INFO: test_010 start
+[2019-04-10 18:09:14,829] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/returnGoods/getSaleRefundDetailList
+[2019-04-10 18:09:14,833] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,836] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,848] - log.py] - INFO: test_011 start
+[2019-04-10 18:09:14,851] - log.py] - INFO: url: http://testerp.taijierp.cn/Sales/SalesTransfer/getTransferList
+[2019-04-10 18:09:14,854] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,858] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,871] - log.py] - INFO: test_012 start
+[2019-04-10 18:09:14,874] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/CustomerRebate/getCustomerRebateList
+[2019-04-10 18:09:14,877] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,881] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,898] - log.py] - INFO: test_013 start
+[2019-04-10 18:09:14,901] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/CustomerRebate/getCustomerRebateList
+[2019-04-10 18:09:14,904] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,907] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,919] - log.py] - INFO: test_014 start
+[2019-04-10 18:09:14,922] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/CustomerRebate/getCustomerRebateLogList?customer_id=611
+[2019-04-10 18:09:14,924] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,927] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,939] - log.py] - INFO: test_015 start
+[2019-04-10 18:09:14,942] - log.py] - INFO: url: http://testerp.taijierp.cn/Sales/SalesCommission/getCommissionList
+[2019-04-10 18:09:14,944] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,946] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,957] - log.py] - INFO: test_016 start
+[2019-04-10 18:09:14,960] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/SalesSettlement/getSettlementList
+[2019-04-10 18:09:14,962] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,964] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,975] - log.py] - INFO: test_017 start
+[2019-04-10 18:09:14,977] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/PromotionPolicy/addPromotionPolicy
+[2019-04-10 18:09:14,979] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:14,981] - log.py] - INFO: result：pass
+[2019-04-10 18:09:14,992] - log.py] - INFO: test_018 start
+[2019-04-10 18:09:14,995] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/SellingPrice/savePrice
+[2019-04-10 18:09:14,998] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:15,001] - log.py] - INFO: result：pass
+[2019-04-10 18:09:15,012] - log.py] - INFO: test_019 start
+[2019-04-10 18:09:15,015] - log.py] - INFO: url: http://testerp.taijierp.cn/sales/SalesOrder/addSalesOrder
+[2019-04-10 18:09:15,019] - log.py] - INFO: expect: "code":200
+[2019-04-10 18:09:15,021] - log.py] - INFO: result：pass
+[2019-04-10 18:09:15,024] - log.py] - INFO: ----测试结束----

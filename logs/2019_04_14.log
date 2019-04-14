@@ -1,0 +1,107 @@
+[2019-04-14 10:40:08,197] - log.py] - INFO: ---测试开始----
+[2019-04-14 10:40:08,228] - log.py] - INFO: test_001 start
+[2019-04-14 10:40:08,228] - log.py] - INFO: title：促销政策查询
+[2019-04-14 10:40:08,228] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/PromotionPolicy/getPromotionPolicyList
+[2019-04-14 10:40:08,228] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,228] - log.py] - INFO: result：
+[2019-04-14 10:40:08,259] - log.py] - INFO: test_002 start
+[2019-04-14 10:40:08,259] - log.py] - INFO: title：销售价格查询
+[2019-04-14 10:40:08,259] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/SellingPrice/getPriceList
+[2019-04-14 10:40:08,259] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,259] - log.py] - INFO: result：
+[2019-04-14 10:40:08,275] - log.py] - INFO: test_003 start
+[2019-04-14 10:40:08,275] - log.py] - INFO: title：销售订单查询
+[2019-04-14 10:40:08,275] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/SalesOrder/getSalesOrderList
+[2019-04-14 10:40:08,275] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,275] - log.py] - INFO: result：
+[2019-04-14 10:40:08,291] - log.py] - INFO: test_004 start
+[2019-04-14 10:40:08,291] - log.py] - INFO: title：销售订单列表查询
+[2019-04-14 10:40:08,291] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/SalesOrder/getSalesGoodsList
+[2019-04-14 10:40:08,291] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,291] - log.py] - INFO: result：
+[2019-04-14 10:40:08,306] - log.py] - INFO: test_005 start
+[2019-04-14 10:40:08,306] - log.py] - INFO: title：销售出库查询
+[2019-04-14 10:40:08,306] - log.py] - INFO: url: http://glterp.taijierp.cn/Sales/Outstock/outstockList
+[2019-04-14 10:40:08,306] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,306] - log.py] - INFO: result：
+[2019-04-14 10:40:08,338] - log.py] - INFO: test_006 start
+[2019-04-14 10:40:08,338] - log.py] - INFO: title：销售出库单明细表查询
+[2019-04-14 10:40:08,338] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/outstock/outstockGoodsList
+[2019-04-14 10:40:08,338] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,338] - log.py] - INFO: result：
+[2019-04-14 10:40:08,353] - log.py] - INFO: test_007 start
+[2019-04-14 10:40:08,353] - log.py] - INFO: title：销售发货查询
+[2019-04-14 10:40:08,353] - log.py] - INFO: url: http://glterp.taijierp.cn/Sales/Delivery/deliveryList
+[2019-04-14 10:40:08,353] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,353] - log.py] - INFO: result：
+[2019-04-14 10:40:08,369] - log.py] - INFO: test_008 start
+[2019-04-14 10:40:08,369] - log.py] - INFO: title：销售发货明细表查询
+[2019-04-14 10:40:08,369] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/delivery/deliveryGoodsList
+[2019-04-14 10:40:08,369] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,369] - log.py] - INFO: result：
+[2019-04-14 10:40:08,384] - log.py] - INFO: test_009 start
+[2019-04-14 10:40:08,384] - log.py] - INFO: title：销售退货查询
+[2019-04-14 10:40:08,384] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/ReturnGoods/returnList
+[2019-04-14 10:40:08,384] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,384] - log.py] - INFO: result：
+[2019-04-14 10:40:08,400] - log.py] - INFO: test_010 start
+[2019-04-14 10:40:08,400] - log.py] - INFO: title：销售退货明细表查询
+[2019-04-14 10:40:08,400] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/returnGoods/getSaleRefundDetailList
+[2019-04-14 10:40:08,400] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,400] - log.py] - INFO: result：
+[2019-04-14 10:40:08,447] - log.py] - INFO: test_011 start
+[2019-04-14 10:40:08,447] - log.py] - INFO: title：销售调拨查询
+[2019-04-14 10:40:08,447] - log.py] - INFO: url: http://glterp.taijierp.cn/Sales/SalesTransfer/getTransferList
+[2019-04-14 10:40:08,447] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,447] - log.py] - INFO: result：
+[2019-04-14 10:40:08,494] - log.py] - INFO: test_012 start
+[2019-04-14 10:40:08,494] - log.py] - INFO: title：客户返利查询
+[2019-04-14 10:40:08,494] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/CustomerRebate/getCustomerRebateList
+[2019-04-14 10:40:08,494] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,509] - log.py] - INFO: result：
+[2019-04-14 10:40:08,541] - log.py] - INFO: test_013 start
+[2019-04-14 10:40:08,541] - log.py] - INFO: title：客户返利列表查询
+[2019-04-14 10:40:08,541] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/CustomerRebate/getCustomerRebateList
+[2019-04-14 10:40:08,541] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,541] - log.py] - INFO: result：
+[2019-04-14 10:40:08,556] - log.py] - INFO: test_014 start
+[2019-04-14 10:40:08,556] - log.py] - INFO: title：客户返利明细查询
+[2019-04-14 10:40:08,556] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/CustomerRebate/getCustomerRebateLogList?customer_id=611
+[2019-04-14 10:40:08,556] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,572] - log.py] - INFO: result：
+[2019-04-14 10:40:08,588] - log.py] - INFO: test_015 start
+[2019-04-14 10:40:08,588] - log.py] - INFO: title：委托代销查询
+[2019-04-14 10:40:08,588] - log.py] - INFO: url: http://glterp.taijierp.cn/Sales/SalesCommission/getCommissionList
+[2019-04-14 10:40:08,588] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,588] - log.py] - INFO: result：
+[2019-04-14 10:40:08,603] - log.py] - INFO: test_016 start
+[2019-04-14 10:40:08,603] - log.py] - INFO: title：委托代销结算查询
+[2019-04-14 10:40:08,603] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/SalesSettlement/getSettlementList
+[2019-04-14 10:40:08,603] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,603] - log.py] - INFO: result：
+[2019-04-14 10:40:08,634] - log.py] - INFO: test_017 start
+[2019-04-14 10:40:08,634] - log.py] - INFO: title：新增促销政策
+[2019-04-14 10:40:08,634] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/PromotionPolicy/addPromotionPolicy
+[2019-04-14 10:40:08,634] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,634] - log.py] - INFO: result：
+[2019-04-14 10:40:08,666] - log.py] - INFO: test_018 start
+[2019-04-14 10:40:08,666] - log.py] - INFO: title：新增销售价格
+[2019-04-14 10:40:08,666] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/SellingPrice/savePrice
+[2019-04-14 10:40:08,666] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,666] - log.py] - INFO: result：
+[2019-04-14 10:40:08,697] - log.py] - INFO: test_019 start
+[2019-04-14 10:40:08,697] - log.py] - INFO: title：新增销售订单
+[2019-04-14 10:40:08,697] - log.py] - INFO: url: http://glterp.taijierp.cn/sales/SalesOrder/addSalesOrder
+[2019-04-14 10:40:08,697] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,697] - log.py] - INFO: result：
+[2019-04-14 10:40:08,728] - log.py] - INFO: test_020 start
+[2019-04-14 10:40:08,728] - log.py] - INFO: title：新增销售出库单（直接新增商品）
+[2019-04-14 10:40:08,728] - log.py] - INFO: url: http://glterp.taijierp.cn/Sales/Outstock/addOut
+[2019-04-14 10:40:08,728] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,728] - log.py] - INFO: result：
+[2019-04-14 10:40:08,744] - log.py] - INFO: test_021 start
+[2019-04-14 10:40:08,744] - log.py] - INFO: title：新增销售退库单（直接退货）
+[2019-04-14 10:40:08,744] - log.py] - INFO: url: http://glterp.taijierp.cn/Sales/ReturnGoods/addReturn
+[2019-04-14 10:40:08,744] - log.py] - INFO: expect: "code":200
+[2019-04-14 10:40:08,744] - log.py] - INFO: result：
+[2019-04-14 10:40:08,744] - log.py] - INFO: ----测试结束----

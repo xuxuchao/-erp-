@@ -68,3 +68,6 @@ class XSZC(unittest.TestCase):
 		r=self.obj.post(row=21,data=data)
 		self.isContent(r=r,row=21)
 		self.excel.writeResult(21,'pass')
+
+	def test_022(self):
+		pass

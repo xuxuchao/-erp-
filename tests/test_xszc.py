@@ -69,5 +69,5 @@ class XSZC(unittest.TestCase):
 		self.isContent(r=r,row=21)
 		self.excel.writeResult(21,'pass')
 
-	def test_023(self):
+	def test_024(self):
 		pass

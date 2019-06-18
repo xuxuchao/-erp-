@@ -30,6 +30,8 @@ class Runner(object):
 		new_report = mail_send().new_report(test_report)
 		mail_send().send_mail(new_report)
 		mail_send()
+		print("1")
+		print("2")
 
 if __name__ == '__main__':
 	Runner().main_run()
